@@ -5,7 +5,7 @@
 ## Overview
 ---
 ### 1. Routing Algorithm
-![Routing Algorithm] (https://user-images.githubusercontent.com/22615736/32276558-82589cee-bedd-11e7-8bb8-cead9ff5640a.png)
+![Routing Algorithm](https://user-images.githubusercontent.com/22615736/32276558-82589cee-bedd-11e7-8bb8-cead9ff5640a.png)
 
 
 ### 2. CapsNet Architecture
