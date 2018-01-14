@@ -1,3 +1,3 @@
-# CapsuleNet
+# CapsuleNet - "Dynamic Routing Between Capsules"
 ---
-### Dynamic Routing Between Capsules
+
