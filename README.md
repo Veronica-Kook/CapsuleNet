@@ -4,8 +4,8 @@
 
 ## Overview
 ---
-### 1.\\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)
-\\(v<sub>j</sub> = \frac{||s<sub>j</sub>||<sup>2</sup>}{1+||s<sub>j</sub>||<sup>2</sup>}\\ * \frac{s<sub>j</sub>/||s<sub>j</sub>||}\\)
+### 1.v<sub>j</sub> = $$\frac{||s<sub>j</sub>||<sup>2</sup>}{1+||s<sub>j</sub>||<sup>2</sup>} * \frac{s<sub>j</sub>/||s<sub>j</sub>||}$$
+
 ![Capsulenet](https://bigsnarf.files.wordpress.com/2017/11/capsnet.png?w=630)
 
 
