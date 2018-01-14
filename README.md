@@ -6,7 +6,7 @@
 ### 1. Requirements
 ---
 * Python 3.6
-* Tensorflow-gpu
+* Tensorflow 1.4
 
 ### 2. Instructions
 ---
@@ -18,3 +18,12 @@
  $ cd CapsuleNet
 ~~~
 ##### 1-2) Use download ZIP button
+
+#### 2) Download MNIST Datasets.
+##### 2-1) Use this code on your Command Prompt Commands(Windows) / Terminal(Mac os, Linux).
+~~~
+$ python get_data.py
+~~~
+##### 2-2) Download from the site : http://yann.lecun.com/exdb/mnist/
+
+#### 3)
