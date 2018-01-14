@@ -4,7 +4,7 @@
 
 ## Overview
 ---
-### 1.v~j = {||s~j||^2} / {1+||s~j||^2} * {s~j/||s~j||
+### 1.v~j~ = {||s~j~||^2^} / {1+||s~j||^2^} * {s~j~/||s~j||}
 ![Capsulenet](https://bigsnarf.files.wordpress.com/2017/11/capsnet.png?w=630)
 
 
