@@ -21,7 +21,6 @@ I could try to build +'CapsNet'+ by myself for the first time with +following re
 
 
 #### 2-3) Summary of the Architecture
-| :---:           | :---:           | :---:         |
 | Layer Name      | Apply           | Output Shape  |
 | :---            | :---            | :---          |
 | Image           | Raw image array | git status    |
