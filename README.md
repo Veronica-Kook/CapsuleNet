@@ -51,7 +51,7 @@ B. [Understanding Dynamic Routing Between Capsules](https://jhui.github.io/2017/
 
  $ cd CapsuleNet
 ~~~
->> ##### 1-2) Use download ZIP button
+>> ##### 1-2) Use ![download ZIP button](https://github.com/Veronica-Kook/CapsuleNet.git)
 
 
 > #### 2) Download MNIST Datasets.
