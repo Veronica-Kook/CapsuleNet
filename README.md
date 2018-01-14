@@ -4,9 +4,8 @@
 
 ## Overview
 ---
-### 1.v<sub>j</sub> = \frac{||s<sub>j</sub>||<sup>2</sup>}{1+||s<sub>j</sub>||<sup>2</sup>} * \frac{s<sub>j</sub>/||s<sub>j</sub>||}
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-
+### 1.
+![Routing Algorithm] (https://cdn-images-1.medium.com/max/2000/1*ukE9EQ6Yd6IPIu1cLJWSEQ.png)
 ![Capsulenet](https://bigsnarf.files.wordpress.com/2017/11/capsnet.png?w=630)
 
 
