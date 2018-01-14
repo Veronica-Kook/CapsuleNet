@@ -1,6 +1,6 @@
 # CapsuleNet - "Dynamic Routing Between Capsules"
 ---
-I could try to build ++'CapsNet'++ by myself for the first time with ++following references++.
+I could try to build **'CapsNet'** by myself for the first time with **following references**.
 
 
 A. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
