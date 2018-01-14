@@ -4,8 +4,11 @@
 
 ## Overview
 ---
-### 1.
-![Routing Algorithm] (https://cdn-images-1.medium.com/max/2000/1*ukE9EQ6Yd6IPIu1cLJWSEQ.png)
+### 1. Routing Algorithm
+![Routing Algorithm] (https://user-images.githubusercontent.com/22615736/32276558-82589cee-bedd-11e7-8bb8-cead9ff5640a.png)
+
+
+### 2. CapsNet Architecture
 ![Capsulenet](https://bigsnarf.files.wordpress.com/2017/11/capsnet.png?w=630)
 
 
