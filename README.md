@@ -59,7 +59,7 @@ B. [Understanding Dynamic Routing Between Capsules](https://jhui.github.io/2017/
 ~~~
 $ python get_data.py
 ~~~
->> ##### 2-2) Download from the site : http://yann.lecun.com/exdb/mnist/
+>> ##### 2-2) Download data from the site : http://yann.lecun.com/exdb/mnist/
 
 
-> #### 3)
+> #### 3) 
