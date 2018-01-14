@@ -4,7 +4,7 @@
 
 ## Overview
 ---
-### 1.v<sub>j</sub> = {||s<sub>j</sub>||<sup>2</sup>} / {1+||s<sub>j</sub>||<sup>2</sup>} * {s<sub>j</sub>/||s<sub>j</sub>||}
+### 1.v<sub>j</sub> = frac{||s<sub>j</sub>||<sup>2</sup>}{1+||s<sub>j</sub>||<sup>2</sup>} * {s<sub>j</sub>/||s<sub>j</sub>||}
 ![Capsulenet](https://bigsnarf.files.wordpress.com/2017/11/capsnet.png?w=630)
 
 
