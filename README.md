@@ -12,7 +12,7 @@
 ---
 #### 1) Download this Repository
 ##### 1-1) Use 'git'
-> $ git clone https://github.com/Veronica-Kook/CapsuleNet.git
+> $ git clone https://github.com/Veronica-Kook/CapsuleNet.git \n
 > $ cd CapsuleNet
 
 ##### 1-2) Use download ZIP button
