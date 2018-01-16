@@ -51,7 +51,7 @@ B. [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 * Tensorflow 1.4
 
 
-### 2. Instructions
+### 2. Instructions of Trying Model
 ---
 > #### 1) Download this Repository
 >> ##### 1-1) Use 'git'
@@ -71,4 +71,38 @@ $ python get_data.py
 >> ##### 2-2) Download data from the site : http://yann.lecun.com/exdb/mnist/
 
 
-> #### 3) 
+> #### 3) Start Train MNIST Training datasets (including Valid datasets).
+~~~
+$ python main.py
+~~~
+
+
+> #### 4) Start Test MNIST Test datasets
+~~~
+$ python main.py --is_training=False
+~~~
+
+
+### 3. Instructions of Code ( Either Python file or Jupyter Notebook file )
+> #### 1) 1<sup>st<sup> Step
+>> ##### [ How to download MNIST data ] ==> Read get_data.py or get_data.ipynb
+
+
+> #### 2) 2<sup>nd<sup> Step
+>> ##### [ How to split data into Train, Valid, Test datasets ] ==> Read utilizations.py or utilizations.ipynb
+ 
+
+> #### 3) 3<sup>rd<sup> Step
+>> ##### [ How to build CapsNet's Layer ] ==> Read capsLayer.py or capsLayer.ipynb
+ 
+
+> #### 4) 4<sup>th<sup> Step
+>> ##### [ How to build CapsNet ] ==> Read capsNet.py or capsNet.ipynb
+ 
+ 
+> #### 5) 5<sup>th<sup> Step
+>> ##### [ How to Start the Program ] ==> Read main.py or main.ipynb
+ 
+ 
+> #### 6) 6<sup>th<sup> Step
+>> ##### [ How to Change Parameters that starts with cfg (=configuration) ] ==> Read configurations.py or configurations.ipynb
