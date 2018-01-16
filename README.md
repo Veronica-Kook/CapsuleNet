@@ -1,12 +1,16 @@
 # CapsuleNet - "Dynamic Routing Between Capsules"
 ---
-I could try to build **'CapsNet'** by myself for the first time with **following references**.
+I could try to build **'CapsNet'** for the first time with **following references**.
 
-
+[Concepts]
 A. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 B. [Understanding Dynamic Routing Between Capsules](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)
 
+[Code]
+A. [CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+
+B. [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 
 ## Overview
 ---
