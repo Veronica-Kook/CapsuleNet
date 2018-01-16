@@ -19,7 +19,6 @@ B. [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 
 
 ## Overview
----
 [ Simple CNN Model ]
 - When a person's face image is the input, then the model is able to extract the features for nose, eyes and mouth each correctly. However, the model will wrongly detect Picasso’s portrait is the input. 
 
