@@ -20,15 +20,40 @@ B. [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 
 ## Overview
 ---
-[Simple CNN Model]
+[ Simple CNN Model ]
 - When a person's face image is the input, then the model is able to extract the features for nose, eyes and mouth each correctly. However, the model will wrongly detect Picasso’s portrait is the input. 
 
 
--
+[ CapsNet's Main Idea ]
+- The key point of CapsNet is that each neuron contains the likelihood as well as properties of the features - a vector [likelihood, orientation, size]. 
+
+
+- With [likelihood, orientation, size] information, we can detect changable features in the orientation and size among the nose, eyes and ear.
+
+
+[ Capsule ]
+> A capsule is a group of neurons that not only capture the likelihood but also the parameters of the speific features.
+
+
+[ Iterative dynamic Routing ]
 
 
 ### 1. Routing Algorithm
 ![Routing Algorithm](https://user-images.githubusercontent.com/22615736/32276558-82589cee-bedd-11e7-8bb8-cead9ff5640a.png)
+
+
+> Routing a capsule to the capsule in the layer above based on relevancy is called Routing-by-agreement.
+
+[ Expectation-maximization routing (EM routing) ]
+
+
+- Group capsules to form a part-whole relationship.
+
+
+ ==> Role of EM routing: Clustering lower level capsules that produce similar predictions.
+ 
+ 
+ > A higher level feature (a face) is detected by looking for agreement between votes from the capsules one layer below. We use EM routing to cluster capsules that hvae close proximity of the corresponding votes. 
 
 
 ### 2. CapsNet Architecture
