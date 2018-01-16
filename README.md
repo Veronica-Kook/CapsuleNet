@@ -84,25 +84,43 @@ $ python main.py --is_training=False
 
 
 ### 3. Instructions of Code ( Either Python file or Jupyter Notebook file )
-> #### 1) 1<sup>st<sup> Step
->> ##### [ How to download MNIST data ] ==> Read get_data.py or get_data.ipynb
+> #### 1) 1<sup>st</sup> Step
+>> ##### [ How to download MNIST data ] 
 
 
-> #### 2) 2<sup>nd<sup> Step
->> ##### [ How to split data into Train, Valid, Test datasets ] ==> Read utilizations.py or utilizations.ipynb
+         ==> Read get_data.py or get_data.ipynb
+
+
+> #### 2) 2<sup>nd</sup> Step
+>> ##### [ How to split data into Train, Valid, Test datasets ] 
+
+
+         ==> Read utilizations.py or utilizations.ipynb
  
 
-> #### 3) 3<sup>rd<sup> Step
->> ##### [ How to build CapsNet's Layer ] ==> Read capsLayer.py or capsLayer.ipynb
+> #### 3) 3<sup>rd</sup> Step
+>> ##### [ How to build CapsNet's Layer ] 
+
+
+         ==> Read capsLayer.py or capsLayer.ipynb
  
 
-> #### 4) 4<sup>th<sup> Step
->> ##### [ How to build CapsNet ] ==> Read capsNet.py or capsNet.ipynb
+> #### 4) 4<sup>th</sup> Step
+>> ##### [ How to build CapsNet ] 
+
+
+         ==> Read capsNet.py or capsNet.ipynb
  
  
-> #### 5) 5<sup>th<sup> Step
->> ##### [ How to Start the Program ] ==> Read main.py or main.ipynb
+> #### 5) 5<sup>th</sup> Step
+>> ##### [ How to Start the Program ] 
+
+
+         ==> Read main.py or main.ipynb
  
  
-> #### 6) 6<sup>th<sup> Step
->> ##### [ How to Change Parameters that starts with cfg (=configuration) ] ==> Read configurations.py or configurations.ipynb
+> #### 6) 6<sup>th</sup> Step
+>> ##### [ How to Change Parameters that starts with cfg (=configuration) ] 
+
+
+         ==> Read configurations.py or configurations.ipynb
