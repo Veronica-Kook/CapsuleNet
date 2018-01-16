@@ -88,39 +88,39 @@ $ python main.py --is_training=False
 >> ##### [ How to download MNIST data ] 
 
 
-         ==> **Read** get_data.py or get_data.ipynb
+   **Read** get_data.py or get_data.ipynb
 
 
 > #### 2) 2<sup>nd</sup> Step
 >> ##### [ How to split data into Train, Valid, Test datasets ] 
 
 
-         ==> **Read** utilizations.py or utilizations.ipynb
+   **Read** utilizations.py or utilizations.ipynb
  
 
 > #### 3) 3<sup>rd</sup> Step
 >> ##### [ How to build CapsNet's Layer ] 
 
 
-         ==> **Read** capsLayer.py or capsLayer.ipynb
+   **Read** capsLayer.py or capsLayer.ipynb
  
 
 > #### 4) 4<sup>th</sup> Step
 >> ##### [ How to build CapsNet ] 
 
 
-         ==> **Read** capsNet.py or capsNet.ipynb
+   **Read** capsNet.py or capsNet.ipynb
  
  
 > #### 5) 5<sup>th</sup> Step
 >> ##### [ How to Start the Program ] 
 
 
-         ==> **Read** main.py or main.ipynb
+   **Read** main.py or main.ipynb
  
  
 > #### 6) 6<sup>th</sup> Step
 >> ##### [ How to Change Parameters that starts with cfg (=configuration) ] 
 
 
-         ==> **Read** configurations.py or configurations.ipynb
+   **Read** configurations.py or configurations.ipynb
