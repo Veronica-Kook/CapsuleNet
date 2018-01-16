@@ -9,6 +9,7 @@ A. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 B. [Understanding Dynamic Routing Between Capsules](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)
 
+
 **[Code]**
 
 
@@ -19,6 +20,13 @@ B. [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 
 ## Overview
 ---
+[Simple CNN Model]
+- When a person's face image is the input, then the model is able to extract the features for nose, eyes and mouth each correctly. However, the model will wrongly detect Picasso’s portrait is the input. 
+
+
+-
+
+
 ### 1. Routing Algorithm
 ![Routing Algorithm](https://user-images.githubusercontent.com/22615736/32276558-82589cee-bedd-11e7-8bb8-cead9ff5640a.png)
 
